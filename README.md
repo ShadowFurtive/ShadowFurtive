@@ -12,7 +12,7 @@ Also, I have knowledges about Networks and Cloud-Edge infraestructure. For examp
 
 If you are intested to reach me, you can contact me on my [Linkedin](https://www.linkedin.com/in/mario-k-57b442200/).
 
-👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 <!---
 ShadowFurtive/ShadowFurtive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
