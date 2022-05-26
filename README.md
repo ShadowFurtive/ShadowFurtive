@@ -1,7 +1,7 @@
 # Mario Kochan
 ## aka ShadowFurtive🐱‍👤
 
-### Who I am😎
+### Who am I😎
 I am a computer science engineering student who likes programming projects, especially if there is personal motivation behind them. 
 
 Nowdays, I am working on python, specially on backend programs. I did projects on SQLAlchemy and Django, including the frontend of this last one. 
